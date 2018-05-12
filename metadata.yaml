@@ -1,10 +1,16 @@
 _repo: Dick-Donnelly-of-the-Paratroops_48226
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48226-h/images/donnelly_cover.jpg
 creator:
   author:
     agent_name: McClintock, Marshall
     gutenberg_agent_id: '44681'
     url: http://www.gutenberg.org/2009/agents/44681
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48226#Dick-Donnelly-of-the-Paratroops
 gutenberg_issued: '2015-02-10'
 gutenberg_type: Text
 identifiers:
